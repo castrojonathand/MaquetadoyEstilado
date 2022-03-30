@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+    margin: 0;
+    font-size: 0;
+    box-sizing: border-box;
+    font-family: roboto;
+}
+body{
+    background-color: #E5E5E5;
+    width: 1024px;
+    top: -614px;
+    left: -718px;
+}
+header {    
+    /* position: relative;
+    display: flex; */
+    /* justify-content: space-between;     */
+    height: 100px;    
+    background-color: #222222;
+}
+.logo1 {
+    position: relative;
+    top: 10px;
+    left: 20px;
+
+}
+header nav{
+    display: flex;           
+    justify-content:space-between;  
+    position: absolute;      
+    width: 284px;
+    height: 19px;
+    top: 40px;
+    left: 720px;
+}
+
+main {
+    display: flex; 
+    position: relative;      
+    justify-content: space-around;
+    margin: 35px 19px;    
+
+}
+main .delivery{   
+    width: 490px;
+    height: 350px;        
+}
+
+.delivery h2{   
+    position: relative;
+    font-size: 24px;
+    color: red; 
+    position: fixed;    
+    padding: 20px;
+}
+
+.delivery span {
+    color: white;
+    font-size: 24px;
+    
+}
+main .podio{        
+    
+    position: relative;    
+    background-color: white;
+    width: 490px;
+    height: 350px;
+
+}
+.podio h2{
+    color: red;
+    font-size: 24px;
+    /* display: flex; */
+    position: absolute;
+    /* Width: 171px;
+    Height: 28px; */
+    Top:26px;
+    Left:160px;    
+    
+}
+.top5 h3 {
+    /* color: #222222; */
+    position: absolute;
+    font-size: 20px;
+    /* width: 110.44px; */
+    /* height: 23px; */
+    left: 69px;
+    top: 112px; 
+    
+}
+.top5 ol li{            
+    flex-direction: column;   
+    position: relative;
+    font-size: 16px;    
+    top: 155px;
+    left: 51px;
+
+}
+
+.podio img {
+    /* display: flex; */
+    position: absolute;
+    /* Width: 92px;
+    Height: 129px; */
+    Top: 132px;
+    Left: 325px;
+}
+footer{
+    display: flex;
+    position: relative;
+    background-color: #222222;     
+    height: 150px;
+    padding: 20px 40px;
+}
+footer nav{        
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #F3F3F3;
+    top: 19px;
+    left: 20px;
+    
+}
+.logo2{    
+    position:absolute;
+    top: 35px;
+    left: 770px;
+
+}
+
+
