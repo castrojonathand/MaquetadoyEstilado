@@ -1,0 +1,83 @@
+1)Armar 9 computadoras (3 gama baja, 3 gama media, 3 gama alta).
+
+Detalles de armado:
+-Procesador
+-Placa Madre
+-Memoria Primaria
+-Memoria Secundaria
+-GPU (Si es necesario)
+
+Deben ser armadas compatibles para Intel, AMD y una tercera a libre critero.
+Recordar: Características de compatibilidad como sockets, frecuencia y conectores. 
+
+----------------------------------------------
+
+a) Gama baja: Usadas por personas que necesitas pocos requisitos (Planillas de Excel, Word, etc). Por lo general no necesitan GPU.
+
+Intel
+Procesador: Core i3 7100 (Socket: FCLGA1151)
+Placa Madre: Asus Prime B365m-a (Socket 1151, compatible hasta RAM DDR4, Soporta SATA)
+Memoria principal: Memoria DDR2 2GB 800MHz (Una memoria económica y compatible para gama baja. Suficiente velocidad)
+Memoria secundaria: Toshiba MQ01ABD Series MQ01ABD032 320GB (Disco de lo más económico en el mercado y con suficiente espacio para oficina)
+
+AMD
+Procesador: Ryzen 3 2200g (Socket: AM4)
+Placa Madre: Asus Prime A320m-k (Socket AM4, hasta DDR4, SATA)
+Memoria principal: Memoria DDR2 2GB 800MHz (Económico y suficiente velocidad)
+Memoria secundaria: Western Digital WD3200LPVX 320GB (Disco económico y de suficiente espacio para oficina)
+
+Libre
+Procesador: Intel Pentium G2030 (Socket: FCLGA1155)
+Placa Madre: MSI H310m Pro (Socket 1155, hasta DDR4, SATA)
+Memoria principal: Memoria Kingston KVR16N11S8/4 4GB 1600MHz (Un poco más caro pero más veloz)
+Memoria secundaria: Hitachi Cinemastar Z5k500 500gb (Económico y con más almacenamiento)
+
+----------------------------------------------
+
+b) Gama media: Usados por personas con requisitos más exigentes. Por ejemplo personas que trabajan en desarrollo con herramientas del tipo VS Code, MySQL, etc. También se usa para gaming no muy pesado. Pueden llevar GPU.
+
+Intel
+Procesador: 
+Placa Madre: Asus P8h61-m Le (Socket 1155, hasta DDR3, SATA, Soporta hasta 16GB RAM)
+Memoria principal: Memoria Corsair DDR3 8GB x2 (Agrego dos memorias RAM para velocidad y llenar los 16GB de RAM)
+Memoria secundaria: WD Wester Digital WD10PURZ 1TB (Disco de 1TB para programas más pesados y hasta juegos)
+GPU: GeForce GT 1030 2GD4 LP OC
+
+AMD
+Procesador: 
+Placa Madre:
+Memoria principal:
+Memoria secundaria:
+GPU: 
+
+Libre
+Procesador: Ryzen 5 3600
+Placa Madre: Asus Rog Strix B550-f
+Memoria principal: Corsair Vengeance 16GB x2
+Memoria secundaria: SSD kingston 1TB
+GPU: AMD GIGABYTE 5700xt
+
+----------------------------------------------
+
+c) Gama alta: Equipos que requieren las mejores prestaciones del mercado. Son utilizados para tareas de mucho procesamiento, como minería de datos, big data, gaming, entre otras. Generalmente utilizan GPU.
+
+Intel
+Procesador: Core i7-10700
+Placa Madre: 
+Memoria principal: Corsair Vengance 
+Memoria secundaria: Samsung 980 SSD 1TB y Wester Digital 4TB.
+GPU: Nvidea GeForce GTX 3090
+
+AMD
+Procesador: Amd Ryzen 7 3800xt
+Placa Madre: 
+Memoria principal:
+Memoria secundaria:
+GPU: 
+
+Libre
+Procesador: 
+Placa Madre:
+Memoria principal:
+Memoria secundaria:
+GPU: 
